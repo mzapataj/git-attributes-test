@@ -1,5 +1,6 @@
-"// Sample JS File" 
-const API_KEY = "a1693afecca123";
+// Sample JS File
+//Hello World
+const API_KEY = "{SECURE_API_KEY}";
 const nakedAPICall = function(key) {
     console.log("Making API call.....");
 }
