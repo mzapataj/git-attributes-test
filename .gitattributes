@@ -1,2 +1,3 @@
 "# Git Attributes"
-*.jpg diff=exit
+*.jpg diff=exif
+
